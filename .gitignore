@@ -1,3 +1,11 @@
+
+# add
+assets/presen/
+*.bin
+*.ts
+node_modules/
+md2pptx/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
